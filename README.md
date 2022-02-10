@@ -1,4 +1,4 @@
-# CV_ML
+# CV_ML   [![DOI](https://zenodo.org/badge/457905381.svg)](https://zenodo.org/badge/latestdoi/457905381)
 ## Data and Code for "Cryptocurrency Valuation: An Explainable AI Approach"
 **Available** on [Arxiv](https://arxiv.org/abs/2201.12893)
 
