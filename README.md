@@ -2,7 +2,7 @@
 ## Data and Code for "Cryptocurrency Valuation: An Explainable AI Approach"
 ## Co-authors: Yulin Liu* and Luyao Zhang*
 
-* *by alphabetical order of the last name, joint first and corresponding authors*
+\* *by alphabetical order of the last name, joint first and corresponding authors*
 
 
 **Available** on [Arxiv](https://arxiv.org/abs/2201.12893)
