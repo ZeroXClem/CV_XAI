@@ -5,7 +5,7 @@
 \* *by alphabetical order of the last name, joint first and corresponding authors*
 
 
-**Available** on [Arxiv](https://arxiv.org/abs/2201.12893)
+**Available** on Arxiv: [https://arxiv.org/abs/2201.12893](https://arxiv.org/abs/2201.12893)
 
 **Note 1**: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab.
 
