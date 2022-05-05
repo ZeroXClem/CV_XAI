@@ -1,5 +1,10 @@
-# CV_ML   [![DOI](https://zenodo.org/badge/457905381.svg)](https://zenodo.org/badge/latestdoi/457905381)
+# CV_XAI   [![DOI](https://zenodo.org/badge/457905381.svg)](https://zenodo.org/badge/latestdoi/457905381)
 ## Data and Code for "Cryptocurrency Valuation: An Explainable AI Approach"
+## Co-authors: Yulin Liu* and Luyao Zhang*
+
+* *by alphabetical order of the last name, joint first and corresponding authors*
+
+
 **Available** on [Arxiv](https://arxiv.org/abs/2201.12893)
 
 **Note 1**: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab.
