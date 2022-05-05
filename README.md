@@ -12,6 +12,8 @@
 **Note 2**: We save all "csv" to a [Public Github Repo](https://github.com/sunshineluyao/Fintech_AI) to make importing data more convenient in Google Colab.
 
 
-  Parts| Content| URL|
-  ---  |---| URL|
-  ---  |   |    |
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
