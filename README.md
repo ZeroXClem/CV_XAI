@@ -29,9 +29,9 @@
 
 ## Related Paper, Data, and Code. 
 
-> "Deciphering Bitcoin Blockchain Data by Cohort Analysis" by Yulin Liu, Luyao Zhang*, and Yinhong Zhao.  
-> 
-> - [[Arxiv](https://arxiv.org/abs/2103.00173)]
-> - [[Nature Research](https://www.nature.com/articles/s41597-022-01254-0)] 
-> - [[Nature Research PDF](https://rdcu.be/cKRkg)] 
-> - [[Harvard Dataverse](https://doi.org/10.7910/DVN/XSZQWP)]
+"Deciphering Bitcoin Blockchain Data by Cohort Analysis" by Yulin Liu, Luyao Zhang*, and Yinhong Zhao.  
+
+- [[Arxiv](https://arxiv.org/abs/2103.00173)]
+- [[Nature Research](https://www.nature.com/articles/s41597-022-01254-0)] 
+- [[Nature Research PDF](https://rdcu.be/cKRkg)] 
+- [[Harvard Dataverse](https://doi.org/10.7910/DVN/XSZQWP)]
