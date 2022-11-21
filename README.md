@@ -5,7 +5,7 @@
 
 \* *by alphabetical order of the last name, joint first and corresponding authors*
 
-*Working paper available** on arXiv: [https://arxiv.org/abs/2201.12893](https://arxiv.org/abs/2201.12893)
+*Working paper available on arXiv: [https://arxiv.org/abs/2201.12893](https://arxiv.org/abs/2201.12893)*
 
 ## Table of Contents
 
