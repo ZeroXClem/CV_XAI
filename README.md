@@ -1,7 +1,7 @@
 # CV_XAI   [![DOI](https://zenodo.org/badge/457905381.svg)](https://zenodo.org/badge/latestdoi/457905381)
 ## Data and Code for "Cryptocurrency Valuation: An Explainable AI Approach"
 
-*Co-authors: Yulin Liu * and Luyao Zhang*
+*Co-authors: Yulin Liu * and Luyao Zhang *
 
 \* *by alphabetical order of the last name, joint first and corresponding authors*
 
